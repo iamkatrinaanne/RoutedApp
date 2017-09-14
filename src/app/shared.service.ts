@@ -20,7 +20,7 @@ this.shNameCollection.push(this.nameObject);
 
 }
 
-getNames():Array<object>{
+getNames(){
 return this.shNameCollection;
 }
 }
